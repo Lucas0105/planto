@@ -1,6 +1,6 @@
 
 # 스마트 반려화분
-# <img src="README.assets/image-1.png"  width="800">     </br> Planto - 당신 곁의 반려화분
+# <img src="README.assets/image-1.png"  width="200">     </br> Planto - 당신 곁의 반려화분
 
 <h3> 똑똑한 화분, 똑분이 </h3>
 
